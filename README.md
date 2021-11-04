@@ -36,7 +36,7 @@ The private key is also known as the secret key, and is used to write, or add, p
 
 - "This repository does not have a Release or InRelease file."
 
-	To fix, just uninstall the repository and then re-install it using the instructions above. The format of the repository was changed on 8/22/21, due to which this error is caused. If you're interested, read more about how the repository is structured [here](https://github.com/raspbian-addons/raspbian-addons/tree/master/docs/DOCUMENTATION.md).
+	To fix, just uninstall the repository and then re-install it using the instructions above. The format of the repository was changed on 8/22/21, due to which this error is caused.
 
 	(Or, if you're feeling adventurous, edit the `rpirepo.list` file in /etc/apt/sources.list.d/, and ***change the ending from `raspbian-addons/debian buster main` to `raspbian-addons/debian/ /`***)
 
