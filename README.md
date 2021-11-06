@@ -2,6 +2,8 @@
 
 This is the main repository documentation. If you have any questions or anything can be improved, please open an issue [here](https://github.com/raspbian-addons/raspbian-addons/issues/new).
 
+Eventually, we'll create a formal documentation website, but for now, it's just one unified README.
+
 ### What is Raspbian Addons?
 
 Raspbian Addons is a Debian software repository (APT repository) for awesome software that can be run on Raspberry Pies.
