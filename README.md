@@ -71,9 +71,9 @@ This area contains a description of each application in the repository.
 
 All the packages can be found [here](https://apt.raspbian-addons.org/debian/pool/).
 
-| Package Name | Package Description | Project Homepage |
+| Package Name | Package Description           | Project Homepage |
 | ------------- | ------------- | ------------- |
-| adoptopenjdk | Prebuilt OpenJDK binaries | https://adoptopenjdk.net/  |
+| adoptopenjdk | Prebuilt OpenJDK binaries | https://adoptopenjdk.net/ |
 | alacritty | Cross-platform OpenGL terminal emulator | https://github.com/alacritty/alacritty |
 | albert | A fast and flexible keyboard launcher | https://github.com/albertlauncher/albert |
 | ali | Generate HTTP load and plot the results in real-time | https://github.com/nakabonne/ali |
@@ -150,3 +150,4 @@ All the packages can be found [here](https://apt.raspbian-addons.org/debian/pool
 | musikcube | a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++ | https://github.com/clangen/musikcube |
 | n | Node version management | https://github.com/tj/n |
 | nomacs | Free image viewer | https://github.com/nomacs/nomacs |
+| 
