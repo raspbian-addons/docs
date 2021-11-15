@@ -73,6 +73,15 @@ All the packages can be found [here](https://apt.raspbian-addons.org/debian/pool
 
 | Package Name | Package Description | Project Homepage |
 | ------------- | ------------- | ------------- |
-| adoptopenjdk  | Prebuilt OpenJDK binaries | https://adoptopenjdk.net/  |
-| alacritty  | Cross-platform OpenGL terminal emulator  | https://github.com/alacritty/alacritty  |
+| adoptopenjdk | Prebuilt OpenJDK binaries | https://adoptopenjdk.net/  |
+| alacritty | Cross-platform OpenGL terminal emulator | https://github.com/alacritty/alacritty |
 | albert | A fast and flexible keyboard launcher | https://github.com/albertlauncher/albert |
+| ali | Generate HTTP load and plot the results in real-time | https://github.com/nakabonne/ali |
+| amazon-corretto | No-cost, multiplatform, production-ready distribution of the Java Development Kit. | https://corretto.aws |
+| amiberry | Optimized Amiga emulator for the Raspberry Pi and other ARM boards | https://amiberry.com |
+| appimagelauncher | Helper application for running and integrating AppImages | http://github.com/TheAssassin/AppImageLauncher |
+| archivebox | Open-source self hosted web archiving. | https://github.com/ArchiveBox/ArchiveBox |
+| balena-etcher-electron | Flash OS images to SD card and USB drives safely and easily. | https://github.com/balena-io/etcher |
+| bat | a cat clone with wings. | https://github.com/sharkdp/bat |
+| bleachbit | Clean your system and free disk space. | https://bleachbit.org |
+| blockbench | Free modern model editor for low-poly and boxy models with pixel art textures. | https://github.com/JannisX11/blockbench |
