@@ -73,5 +73,5 @@ All the packages can be found [here](https://apt.raspbian-addons.org/debian/pool
 
 | Package Name | Package Description | Project Homepage |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
+| AdoptOpenJDK  | Prebuilt OpenJDK binaries | https://adoptopenjdk.net/  |
 | Content Cell  | Content Cell  | Content Cell  |
