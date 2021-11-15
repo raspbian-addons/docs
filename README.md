@@ -64,3 +64,14 @@ Testing the speed of each of the mirrors to see which one is best for you can be
 ```
 bash <(curl -fSsL https://cdn.jsdelivr.net/gh/raspbian-addons/scripts@master/utils/speedtest.sh)
 ```
+
+### Package List
+
+This area contains a description of each application in the repository.
+
+All the packages can be found [here](https://apt.raspbian-addons.org/debian/pool/).
+
+| Package Name | Package Description | Project Homepage |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
