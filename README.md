@@ -73,5 +73,6 @@ All the packages can be found [here](https://apt.raspbian-addons.org/debian/pool
 
 | Package Name | Package Description | Project Homepage |
 | ------------- | ------------- | ------------- |
-| AdoptOpenJDK  | Prebuilt OpenJDK binaries | https://adoptopenjdk.net/  |
-| Content Cell  | Content Cell  | Content Cell  |
+| adoptopenjdk  | Prebuilt OpenJDK binaries | https://adoptopenjdk.net/  |
+| alacritty  | Cross-platform OpenGL terminal emulator  | https://github.com/alacritty/alacritty  |
+| albert | A fast and flexible keyboard launcher | https://github.com/albertlauncher/albert |
