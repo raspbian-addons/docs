@@ -10,4 +10,4 @@ Website: [https://raspbian-addons.org](https://raspbian-addons.org)
 
 Docs: [https://docs.raspbian-addons.org](https://docs.raspbian-addons.org)
 
-Package List: [https://pkglist.raspbian-addons.org](https://pkglist.raspbian-addons.org)
+Package List: [https://docs.raspbian-addons.org/package-list/](https://docs.raspbian-addons.org/package-list/)
