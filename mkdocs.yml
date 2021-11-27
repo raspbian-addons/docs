@@ -1,4 +1,4 @@
-site_name: Rapbian Addons Docs
+site_name: Raspbian Addons Docs
 theme:
   name: material
   logo: 'https://cdn.jsdelivr.net/gh/raspbian-addons/raspbian-addons@master/icons/logo-condensed-nosquare.png'
