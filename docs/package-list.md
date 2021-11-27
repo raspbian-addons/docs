@@ -133,7 +133,7 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | ulauncher | Linux application launcher | https://github.com/Ulauncher/Ulauncher |
 | ungoogled-chromium | google chromium, sans integration with Google | https://github.com/Eloston/ungoogled-chromium |
 | usbimager | simple GUI app for writing images to drives | https://gitlab.com/bztsrc/usbimager |
-| usermin | - | https://github.com/webmin/usermin |
+| usermin | A web-based interface for webmail, password changing, mail filters, fetchmail and much more.  | https://github.com/webmin/usermin |
 | vkmark | Vulkan benchmark utility | https://github.com/vkmark/vkmark |
 | warpinator | Share files across the LAN | https://github.com/linuxmint/warpinator |
 | web-renderer | qt-based minimal web renderer | https://github.com/pi-top/web-renderer |
