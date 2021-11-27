@@ -3,3 +3,7 @@ theme:
   name: material
   logo: 'https://cdn.jsdelivr.net/gh/raspbian-addons/raspbian-addons@master/icons/logo-condensed-nosquare.png'
   favicon: 'https://cdn.jsdelivr.net/gh/raspbian-addons/raspbian-addons@master/icons/logo-condensed-nosquare.png'
+
+repo_name: raspbian-addons/docs
+repo_url: https://github.com/raspbian-addons/docs
+edit_uri: https://github.com/raspbian-addons/docs/edit/main/docs/
