@@ -154,3 +154,5 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | yesplaymusic | Third-party cloud music player | https://github.com/qier222/YesPlayMusic |
 | tetris | classic tetris for the terminal | https://github.com/k-vernooy/tetris/ |
 | caprine | unofficial and privacy focused Facebook Messenger app with many useful features. | https://sindresorhus.com/caprine/ |
+| hyperfine | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
+| howdy | Facial recognition for Linux | https://github.com/boltgolt/howdy |
