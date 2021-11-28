@@ -2,7 +2,7 @@
 
 - **"This repository does not have a Release or InRelease file."**
 
-	To fix, just uninstall the repository and then re-install it using the instructions above. The format of the repository was changed on 8/22/21, due to which this error is caused.
+	To fix, just uninstall the repository and then re-install it using [these instructions](https://raspbian-addons.org/install.html).
 	(Or, if you're feeling adventurous, edit the `rpirepo.list` file in /etc/apt/sources.list.d/, and change the ending from `raspbian-addons/debian buster main` to `raspbian-addons/debian/ /`)
 
 - **"E: Unable to locate package packagename"**
