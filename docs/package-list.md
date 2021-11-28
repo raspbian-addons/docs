@@ -158,3 +158,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | howdy | Facial recognition for Linux | https://github.com/boltgolt/howdy |
 | transfer | Transfer tool with multiple APIs | https://github.com/Mikubill/transfer |
 | pacstall | The AUR Ubuntu never had. | https://github.com/pacstall/pacstall |
+| croc | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
