@@ -156,3 +156,5 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | caprine | unofficial and privacy focused Facebook Messenger app with many useful features. | https://sindresorhus.com/caprine/ |
 | hyperfine | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
 | howdy | Facial recognition for Linux | https://github.com/boltgolt/howdy |
+| transfer | Transfer tool with multiple APIs | https://github.com/Mikubill/transfer |
+| pacstall | The AUR Ubuntu never had. | https://github.com/pacstall/pacstall |
