@@ -16,5 +16,3 @@ bash <(curl -fSsL https://cdn.jsdelivr.net/gh/raspbian-addons/scripts@master/uti
 ```
 
 </details>
-
-[Running a repository speed test](https://docs.raspbian-addons.org/extras/speed-test/)
