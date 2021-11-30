@@ -160,3 +160,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | pacstall | The AUR Ubuntu never had. | https://github.com/pacstall/pacstall |
 | croc | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | update | Easy to use CLI package updater tool | https://github.com/Crilum/update |
+| aria2-pro-core | Aria2 static binaries for GNU/Linux with some powerful feature patches. | https://github.com/P3TERX/Aria2-Pro-Core |
