@@ -159,3 +159,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | transfer | Transfer tool with multiple APIs | https://github.com/Mikubill/transfer |
 | pacstall | The AUR Ubuntu never had. | https://github.com/pacstall/pacstall |
 | croc | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| update | Easy to use CLI package updater tool | https://github.com/Crilum/update |
