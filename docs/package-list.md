@@ -162,3 +162,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | update | Easy to use CLI package updater tool | https://github.com/Crilum/update |
 | aria2-pro-core | Aria2 static binaries for GNU/Linux with some powerful feature patches. | https://github.com/P3TERX/Aria2-Pro-Core |
 | nali | An offline tool for querying IP geographic information and CDN providers. | https://github.com/zu1k/nali |
+| lazygit | simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
