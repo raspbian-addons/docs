@@ -8,8 +8,8 @@ Raspbian Addons uses [shell scripts](https://en.wikipedia.org/wiki/Shell_script)
 - If no errors have occured thus far, the system will continue, replacing the old package with the newly downloaded package. The process repeats until all packages have been downloaded.
 - Then, packages are written to the repository using `gpg`. You can read more about it [here](https://docs.raspbian-addons.org/about/how-does-it-work/).
 
-The scripts used for the repository are completely open-source and can be found at the following pages:
+The scripts used for the repository are completely open-source and can be found at the following page:
 
 [https://github.com/raspbian-addons/scripts](https://github.com/raspbian-addons/scripts)
 
-[https://github.com/ryanfortner/au-sh](https://github.com/ryanfortner/au-sh)
+We are open to any feedback on our scripts. Feel free to open a PR if you'd like to contribute!
