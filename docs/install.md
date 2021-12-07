@@ -16,3 +16,9 @@ bash <(curl -fSsL https://cdn.jsdelivr.net/gh/raspbian-addons/scripts@master/uti
 ```
 
 </details>
+
+The GPG key fingerprint is `232E 6F29 77AB D48E 5A9F  AD03 9ACB 4E70 D84B FD24`.
+  
+### HTTPS Connections
+  
+The repository is also available in https, only if you have the `apt-transport-https` package installed.
