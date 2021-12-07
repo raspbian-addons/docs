@@ -167,3 +167,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | simple-motd | Pretty up your terminal window with ascii art and informational snippets about your system. | https://github.com/angela-d/simple-motd-for-debian-desktop |
 | brainf | A brainfuck interpreter written in C. | https://github.com/Itai-Nelken/brainf |
 | ghbackup | Super simple GitHub backup tool | https://github.com/qvl/ghbackup |
+| zerotier-one | A smart ethernet switch for Earth | https://github.com/zerotier/ZeroTierOne |
