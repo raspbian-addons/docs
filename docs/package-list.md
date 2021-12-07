@@ -165,3 +165,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | lazygit | simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | antimicrox | Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support. | https://github.com/AntiMicroX/antimicrox |
 | simple-motd | Pretty up your terminal window with ascii art and informational snippets about your system. | https://github.com/angela-d/simple-motd-for-debian-desktop |
+| brainf | A brainfuck interpreter written in C. | https://github.com/Itai-Nelken/brainf |
