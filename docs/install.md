@@ -1,11 +1,25 @@
 # Installing
 
-To install the repository, make sure you have an Internet connection. Install Python with `sudo apt install python3`, then run the following command:
+To install the repository, make sure you have an Internet connection. Install Python with `sudo apt install -y python3`, then run the following command:
 
 ```
 python3 <(curl -fSsL https://cdn.jsdelivr.net/gh/raspbian-addons/scripts@master/utils/repo.py)
 ```
-The install script will ask you which mirror you would like to use. Pick the mirror that's closest to you for the most reliable speeds. Please note that the main mirror (apt.raspbian-addons.org) may be the most up-to-date mirror.
+The install script will ask you which mirror you would like to use. Pick the mirror that's closest to you for the most reliable speeds. Please note that the main repository (apt.raspbian-addons.org) may be the most up-to-date.
+
+<details>
+<summary> An alternative to add the main repository </summary>
+  
+ First, install `extrepo`.
+  
+ ```
+ sudo apt install -y extrepo
+ ```
+ Then, enable the Raspbian Addons repository.
+ ```
+ extrepo enable raspbian-addons
+ ```
+</details>
 
 <details>
 <summary> Uninstalling the repository </summary>
