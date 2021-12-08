@@ -10,15 +10,15 @@ The install script will ask you which mirror you would like to use. Pick the mir
 <details>
 <summary> An alternative to add the main repository </summary>
   
- First, install `extrepo`.
+ First, install <code>extrepo</code>.
   
- ```
- sudo apt install -y extrepo
- ```
+```
+sudo apt install -y extrepo
+```
  Then, enable the Raspbian Addons repository.
- ```
- extrepo enable raspbian-addons
- ```
+```
+extrepo enable raspbian-addons
+```
 </details>
 
 <details>
