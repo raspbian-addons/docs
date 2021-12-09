@@ -5,7 +5,9 @@ To install the repository, make sure you have an Internet connection. Install Py
 ```
 python3 <(curl -fSsL https://cdn.jsdelivr.net/gh/raspbian-addons/scripts@master/utils/repo.py)
 ```
-The install script will ask you which mirror you would like to use. Pick the mirror that's closest to you for the most reliable speeds. Please note that the main repository (apt.raspbian-addons.org) may be the most up-to-date.
+The install script will ask you which mirror you would like to use. Pick the mirror that's closest to you for the most reliable speeds. Mirror syncs happen every 24 hours.
+
+Mirror uptime can be viewed on the [status page](https://status.raspbian-addons.org/).
 
 <details>
 <summary> Alternative installation methods </summary>
