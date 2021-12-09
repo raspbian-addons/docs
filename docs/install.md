@@ -8,7 +8,7 @@ python3 <(curl -fSsL https://cdn.jsdelivr.net/gh/raspbian-addons/scripts@master/
 The install script will ask you which mirror you would like to use. Pick the mirror that's closest to you for the most reliable speeds. Please note that the main repository (apt.raspbian-addons.org) may be the most up-to-date.
 
 <details>
-<summary> An alternative to add the main repository </summary>
+<summary> Alternative installation methods </summary>
   
  First, install <code>extrepo</code>.
   
