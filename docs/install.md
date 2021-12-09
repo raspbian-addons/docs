@@ -29,6 +29,11 @@ extrepo enable raspbian-addons
 bash <(curl -fSsL https://cdn.jsdelivr.net/gh/raspbian-addons/scripts@master/utils/uninstall.sh)
 ```
 
+  If you installed the repository using <code>extrepo</code>, skip the step above and simply run the following:
+```
+extrepo disable raspbian-addons
+```
+            
 </details>
 
 The GPG key fingerprint is `232E 6F29 77AB D48E 5A9F  AD03 9ACB 4E70 D84B FD24`.
