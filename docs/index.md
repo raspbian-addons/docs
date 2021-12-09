@@ -13,3 +13,5 @@ Website: [https://raspbian-addons.org](https://raspbian-addons.org)
 Docs: [https://docs.raspbian-addons.org](https://docs.raspbian-addons.org)
 
 Package List: [https://docs.raspbian-addons.org/package-list/](https://docs.raspbian-addons.org/package-list/)
+
+Status: [https://status.raspbian-addons.org/](https://status.raspbian-addons.org/)
