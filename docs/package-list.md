@@ -29,6 +29,7 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | cbonsai | grow bonsai trees in your terminal | https://gitlab.com/jallbrit/cbonsai |
 | cfetch | simple system information tool for linux. | https://github.com/cliegargo/cfetch |
 | cherrytree | Feature rich note-taking application | https://github.com/giuspen/cherrytree |
+| chromium-browser | RPF's hardware-accelerated Chromium Browser. | https://archive.raspberrypi.org/debian/pool/main/c/chromium-browser |
 | clamtk | ondemand virus scanner for Linux | https://github.com/dave-theunsub/clamtk |
 | clementine | modern music player and library organizer for Linux | https://github.com/clementine-player/Clementine |
 | cloudflared | Argo Tunnel client | https://github.com/cloudflare/cloudflared |
