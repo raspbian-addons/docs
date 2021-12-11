@@ -170,3 +170,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | ghbackup | Super simple GitHub backup tool | https://github.com/qvl/ghbackup |
 | zerotier-one | A smart ethernet switch for Earth | https://github.com/zerotier/ZeroTierOne |
 | keepassxc | a modern, secure, and open-source password manager that stores and manages your most sensitive information. | https://github.com/keepassxreboot/keepassxc |
+| bbdown | Bilibili Downloader. | https://github.com/nilaoda/BBDown |
