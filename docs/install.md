@@ -26,7 +26,7 @@ extrepo enable raspbian-addons
 <details>
 <summary> Uninstalling the repository </summary>
 
-  To <i><strong>uninstall</strong></i>, execute this command. 
+  To uninstall, execute this command. 
 ```
 bash <(curl -fSsL https://cdn.jsdelivr.net/gh/raspbian-addons/scripts@master/utils/uninstall.sh)
 ```
@@ -35,7 +35,8 @@ bash <(curl -fSsL https://cdn.jsdelivr.net/gh/raspbian-addons/scripts@master/uti
 ```
 extrepo disable raspbian-addons
 ```
-            
+   
+   Please note that uninstalling the repository will not remove any of the software installed using it.
 </details>
 
 The GPG key fingerprint is `232E 6F29 77AB D48E 5A9F  AD03 9ACB 4E70 D84B FD24`.
