@@ -174,3 +174,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | web-greeter | A modern, visually appealing greeter for LightDM. | https://github.com/JezerM/web-greeter |
 | polychromatic | RGB lighting management software for GNU/Linux. Powered by OpenRazer | https://github.com/polychromatic/polychromatic |
 | razercommander | GTK contol center for managing razer peripherals on Linux | https://github.com/GabMus/razerCommander |
+| temurin-17-hotspot | OpenJDK Hotspot 17 | https://github.com/adoptium/temurin17-binaries |
