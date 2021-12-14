@@ -175,3 +175,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | polychromatic | RGB lighting management software for GNU/Linux. Powered by OpenRazer | https://github.com/polychromatic/polychromatic |
 | razercommander | GTK contol center for managing razer peripherals on Linux | https://github.com/GabMus/razerCommander |
 | temurin-17-hotspot | OpenJDK Hotspot 17 | https://github.com/adoptium/temurin17-binaries |
+| temps | a modern and minimal menubar application based on Electron with actual weather information and forecast | https://github.com/musicpro/temps |
