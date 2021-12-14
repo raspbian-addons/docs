@@ -176,3 +176,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | razercommander | GTK contol center for managing razer peripherals on Linux | https://github.com/GabMus/razerCommander |
 | temurin-17-hotspot | OpenJDK Hotspot 17 | https://github.com/adoptium/temurin17-binaries |
 | temps | a modern and minimal menubar application based on Electron with actual weather information and forecast | https://github.com/musicpro/temps |
+| 7-zip | a file archiver with a high compression ratio (run with `7zz`) | https://7-zip.org/ |
