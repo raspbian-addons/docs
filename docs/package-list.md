@@ -180,3 +180,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | waydroid | a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu | https://github.com/waydroid/waydroid |
 | raspotify | Spotify Connect client for the Raspberry Pi that Just Works™ | https://github.com/dtcooper/raspotify |
 | lovspotify | Spotify GUI + Spotify Client for Raspberry Pi, Ubuntu, and Debian | https://github.com/spocon/lovspotify |
+| aliyundrive-webdav | WebDAV service support for Aliyun drive | https://github.com/messense/aliyundrive-webdav |
