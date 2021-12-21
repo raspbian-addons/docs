@@ -183,3 +183,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | aliyundrive-webdav | WebDAV service support for Aliyun drive | https://github.com/messense/aliyundrive-webdav |
 | mkchromecast | Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices | https://github.com/muammar/mkchromecast |
 | wallpaper-collection | awesome collection of desktop wallpapers | https://github.com/ryanfortner/wallpapers |
+| chinesechess | Cross-platform and online battle platform game based on Qt: Chinese Chess | https://github.com/xmuli/chinessChess |
