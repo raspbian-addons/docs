@@ -186,3 +186,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | chinesechess | Cross-platform and online battle platform game based on Qt: Chinese Chess | https://github.com/xmuli/chinessChess |
 | toybox | all-in-one Linux command line | https://github.com/landley/toybox |
 | dotnet-sdk-6.0 | a free, cross-platform, open-source developer platform for building many different types of applications | https://dotnet.microsoft.com/en-us/download/dotnet/6.0 |
+| fonts-* | Font files available from Google Fonts | https://github.com/google/fonts |
