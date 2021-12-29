@@ -187,3 +187,5 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | toybox | all-in-one Linux command line | https://github.com/landley/toybox |
 | dotnet-sdk-6.0 | a free, cross-platform, open-source developer platform for building many different types of applications | https://dotnet.microsoft.com/en-us/download/dotnet/6.0 |
 | fonts-* | Font files available from Google Fonts | https://github.com/google/fonts |
+| aliyunpan | Aliyun drive third-party client | https://github.com/liupan1890/aliyunpan |
+| ariang-native | GUI client for aria2 with many features | https://github.com/mayswind/AriaNg-Native |
