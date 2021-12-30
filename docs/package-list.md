@@ -189,3 +189,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | fonts-* | Font files available from Google Fonts | https://github.com/google/fonts |
 | aliyunpan | Aliyun drive third-party client | https://github.com/liupan1890/aliyunpan |
 | ariang-native | GUI client for aria2 with many features | https://github.com/mayswind/AriaNg-Native |
+| ckb-next | Open-source driver for Corsair keyboards and mice. | https://github.com/ckb-next/ckb-next |
