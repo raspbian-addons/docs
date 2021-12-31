@@ -190,3 +190,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | aliyunpan | Aliyun drive third-party client | https://github.com/liupan1890/aliyunpan |
 | ariang-native | GUI client for aria2 with many features | https://github.com/mayswind/AriaNg-Native |
 | ckb-next | Open-source driver for Corsair keyboards and mice. | https://github.com/ckb-next/ckb-next |
+| veracrypt | Disk encryption with strong security based on TrueCrypt | https://github.com/veracrypt/VeraCrypt |
