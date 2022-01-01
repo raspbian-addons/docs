@@ -192,3 +192,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | ckb-next | Open-source driver for Corsair keyboards and mice. | https://github.com/ckb-next/ckb-next |
 | veracrypt | Disk encryption with strong security based on TrueCrypt | https://github.com/veracrypt/VeraCrypt |
 | arduino-cli | Arduino command line tool | https://github.com/arduino/arduino-cli |
+| listen1 | one for all free music in china | https://github.com/listen1/listen1_desktop |
