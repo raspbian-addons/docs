@@ -193,3 +193,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | veracrypt | Disk encryption with strong security based on TrueCrypt | https://github.com/veracrypt/VeraCrypt |
 | arduino-cli | Arduino command line tool | https://github.com/arduino/arduino-cli |
 | listen1 | one for all free music in china | https://github.com/listen1/listen1_desktop |
+| openrgb | open-source rg lighting control that doesn't depend on manufacturer software | https://gitlab.com/CalcProgrammer1/OpenRGB |
