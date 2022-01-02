@@ -196,3 +196,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | openrgb | open-source rg lighting control that doesn't depend on manufacturer software | https://gitlab.com/CalcProgrammer1/OpenRGB |
 | ao | Elegant Microsoft To-Do desktop app | https://github.com/klaussinani/ao |
 | tusk | Refined Evernote desktop app | https://github.com/klaussinani/tusk |
+| switchhosts | Switch hosts quickly! | https://github.com/oldj/SwitchHosts |
