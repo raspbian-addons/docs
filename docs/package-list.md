@@ -194,3 +194,5 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | arduino-cli | Arduino command line tool | https://github.com/arduino/arduino-cli |
 | listen1 | one for all free music in china | https://github.com/listen1/listen1_desktop |
 | openrgb | open-source rg lighting control that doesn't depend on manufacturer software | https://gitlab.com/CalcProgrammer1/OpenRGB |
+| ao | Elegant Microsoft To-Do desktop app | https://github.com/klaussinani/ao |
+| tusk | Refined Evernote desktop app | https://github.com/klaussinani/tusk |
