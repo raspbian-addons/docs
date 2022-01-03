@@ -202,3 +202,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | nordzy-cursor-theme | Cursor theme using the Nord color palette and based on Vimix and cz-Viator. | https://github.com/alvatip/Nordzy-cursors |
 | nordzy-icon-theme | Nordzy is a free and open source icon theme for Linux desktops using the Nord color palette from Arctic Ice Studio and based on WhiteSur and Numix Icon Theme. | https://github.com/alvatip/Nordzy-icon |
 | whatscli | A command line interface for WhatsApp | https://github.com/normen/whatscli |
+| xmake | A cross-platform build utility based on Lua | https://github.com/xmake-io/xmake |
