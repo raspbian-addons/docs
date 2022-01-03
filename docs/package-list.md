@@ -198,3 +198,6 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | tusk | Refined Evernote desktop app | https://github.com/klaussinani/tusk |
 | switchhosts | Switch hosts quickly! | https://github.com/oldj/SwitchHosts |
 | spocon | Spotify GUI + Spotify Client for Raspberry Pi, Ubuntu, and Debian | https://github.com/spocon/spocon |
+| capitaine-cursor-theme | An x-cursor theme inspired by macOS and based on KDE Breeze | https://github.com/keeferrourke/capitaine-cursors |
+| nordzy-cursor-theme | Cursor theme using the Nord color palette and based on Vimix and cz-Viator. | https://github.com/alvatip/Nordzy-cursors |
+| nordzy-icon-theme | Nordzy is a free and open source icon theme for Linux desktops using the Nord color palette from Arctic Ice Studio and based on WhiteSur and Numix Icon Theme. | https://github.com/alvatip/Nordzy-icon |
