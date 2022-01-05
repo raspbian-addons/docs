@@ -203,3 +203,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | nordzy-icon-theme | Nordzy is a free and open source icon theme for Linux desktops using the Nord color palette from Arctic Ice Studio and based on WhiteSur and Numix Icon Theme. | https://github.com/alvatip/Nordzy-icon |
 | whatscli | A command line interface for WhatsApp | https://github.com/normen/whatscli |
 | xmake | A cross-platform build utility based on Lua | https://github.com/xmake-io/xmake |
+| debreate | A utility for creating Debian packages. | https://github.com/AntumDeluge/debreate/ |
