@@ -204,3 +204,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | whatscli | A command line interface for WhatsApp | https://github.com/normen/whatscli |
 | xmake | A cross-platform build utility based on Lua | https://github.com/xmake-io/xmake |
 | debreate | A utility for creating Debian packages. | https://github.com/AntumDeluge/debreate/ |
+| pacman | Play Pac-Man in a neat GUI or a cli interface. | https://github.com/Botspot/pi-apps/issues/1327 |
