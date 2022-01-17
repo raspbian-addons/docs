@@ -109,7 +109,7 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | simplenote | Official Simplenote desktop app | https://github.com/Automattic/simplenote-electron |
 | softethervpn | cross-platform multi-protocol vpn | https://github.com/SoftEtherVPN/SoftEtherVPN |
 | sonic-pi | A new kind of musical instrument | https://github.com/sonic-pi-net/sonic-pi |
-| source-han-serif-cn | Source Han Serif is a set of OpenType/CFF Pan-CJK fonts. | https://github.com/adobe-fonts/source-han-serif |
+| source-han-serif-* | Source Han Serif is a set of OpenType/CFF Pan-CJK fonts. | https://github.com/adobe-fonts/source-han-serif |
 | stacer | Linux System optimizer and monitor | https://github.com/oguzhaninan/Stacer |
 | stackedit-nativefier | stackedit nativefier webapp | https://github.com/Itai-Nelken/Nativefier-WebApps |
 | sticky | a sticky notes app for the linux desktop | https://github.com/linuxmint/sticky |
