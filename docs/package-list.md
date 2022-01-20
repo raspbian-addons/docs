@@ -208,3 +208,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | vivaldi-stable | A browser with lots of clever features built in, but also very flexible and private. | https://vivaldi.com/ |
 | unsplash-wallpapers | A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux | https://github.com/soroushchehresa/unsplash-wallpapers |
 | stuntrally | Stunt Rally is a racing game with rally style of driving. | http://stuntrally.tuxfamily.org/ |
+| solaar | Linux device manager for Logitech devices | https://github.com/pwr-Solaar/Solaar |
