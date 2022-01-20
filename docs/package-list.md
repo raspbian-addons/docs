@@ -209,3 +209,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | unsplash-wallpapers | A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux | https://github.com/soroushchehresa/unsplash-wallpapers |
 | stuntrally | Stunt Rally is a racing game with rally style of driving. | http://stuntrally.tuxfamily.org/ |
 | solaar | Linux device manager for Logitech devices | https://github.com/pwr-Solaar/Solaar |
+| obs-studio | Free and open source software for live streaming and screen recording | https://github.com/obsproject/obs-studio |
