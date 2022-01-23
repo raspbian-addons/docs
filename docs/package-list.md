@@ -211,3 +211,8 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | solaar | Linux device manager for Logitech devices | https://github.com/pwr-Solaar/Solaar |
 | obs-studio | Free and open source software for live streaming and screen recording | https://github.com/obsproject/obs-studio |
 | rpiplay | RPi-Play provides an airplay server for iOS devices such as the iPhone and iPad. | https://github.com/FD-/RPiPlay |
+| firetools | Firejail GUI | https://github.com/netblue30/firetools |
+| firejail | Linux namespaces and seccomp-bpf sandbox | https://github.com/netblue30/firejail |
+| gtk2-engines-oxygen | Oxygen widget theme for GTK+-based applications | https://packages.debian.org/buster/gnome/gtk2-engines-oxygen |
+| mozplugger | A Mozilla & Firefox multimedia plugin. | https://web.archive.org/web/20190405220309/http://mozplugger.mozdev.org/ |
+| palemoon | Open Source, Goanna-based web browser available for Microsoft Windows and Linux (with contributed other operating system support), focusing on efficiency and customization. | https://www.palemoon.org/ |
