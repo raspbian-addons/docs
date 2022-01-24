@@ -216,3 +216,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | gtk2-engines-oxygen | Oxygen widget theme for GTK+-based applications | https://packages.debian.org/buster/gnome/gtk2-engines-oxygen |
 | mozplugger | A Mozilla & Firefox multimedia plugin. | https://web.archive.org/web/20190405220309/http://mozplugger.mozdev.org/ |
 | palemoon | Open Source, Goanna-based web browser available for Microsoft Windows and Linux (with contributed other operating system support), focusing on efficiency and customization. | https://www.palemoon.org/ |
+| starship | The minimal, blazing-fast, and infinitely customizable prompt for any shell! | https://github.com/starship/starship |
