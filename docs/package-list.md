@@ -217,3 +217,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | mozplugger | A Mozilla & Firefox multimedia plugin. | https://web.archive.org/web/20190405220309/http://mozplugger.mozdev.org/ |
 | palemoon | Open Source, Goanna-based web browser available for Microsoft Windows and Linux (with contributed other operating system support), focusing on efficiency and customization. | https://www.palemoon.org/ |
 | starship | The minimal, blazing-fast, and infinitely customizable prompt for any shell! | https://github.com/starship/starship |
+| markdownexplorer | Easily explore, view and edit markdown documentation of a file tree | https://github.com/jersou/markdown-explorer |
