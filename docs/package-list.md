@@ -204,7 +204,7 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | whatscli | A command line interface for WhatsApp | https://github.com/normen/whatscli |
 | xmake | A cross-platform build utility based on Lua | https://github.com/xmake-io/xmake |
 | debreate | A utility for creating Debian packages. | https://github.com/AntumDeluge/debreate/ |
-| pacman | Play Pac-Man in a neat GUI or a cli interface. | https://github.com/Botspot/pi-apps/issues/1327 |
+| pacman | Play Pac-Man in a neat GUI interface, and controller support. | https://github.com/ryanfortner/pacman |
 | vivaldi-stable | A browser with lots of clever features built in, but also very flexible and private. | https://vivaldi.com/ |
 | unsplash-wallpapers | A cross-platform desktop application to set wallpapers from Unsplash built with Electron, React, and Redux | https://github.com/soroushchehresa/unsplash-wallpapers |
 | stuntrally | Stunt Rally is a racing game with rally style of driving. | http://stuntrally.tuxfamily.org/ |
