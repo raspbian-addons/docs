@@ -219,3 +219,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | starship | The minimal, blazing-fast, and infinitely customizable prompt for any shell! | https://github.com/starship/starship |
 | markdownexplorer | Easily explore, view and edit markdown documentation of a file tree | https://github.com/jersou/markdown-explorer |
 | nft-stats | Get the nftables counters easier to read | https://github.com/azlux/nft-stats |
+| myst | official implementation of distributed VPN network (dVPN) protocol | https://github.com/mysteriumnetwork/node |
