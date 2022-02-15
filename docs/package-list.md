@@ -231,3 +231,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | cutefish-wallpapers | System wallpapers for Cutefish | https://github.com/cutefishos/wallpapers |
 | fishui | Cutefish GUI library, based on QTQuick | https://github.com/cutefishos/fishui/ |
 | libcutefish | System library for Cutefish | https://github.com/cutefishos/libcutefish |
+| cutefish-icons | System default icon theme for Cutefish | https://github.com/cutefishos/icons |
