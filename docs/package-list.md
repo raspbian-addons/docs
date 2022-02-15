@@ -220,3 +220,14 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | markdownexplorer | Easily explore, view and edit markdown documentation of a file tree | https://github.com/jersou/markdown-explorer |
 | nft-stats | Get the nftables counters easier to read | https://github.com/azlux/nft-stats |
 | myst | official implementation of distributed VPN network (dVPN) protocol | https://github.com/mysteriumnetwork/node |
+| cutefish-core | System components and backend for Cutefish | https://github.com/cutefishos/core |
+| cutefish-dock | Desktop Taskbar for Cutefish | https://github.com/cutefishos/dock |
+| cutefish-filemanager | File manager for Cutefish | https://github.com/cutefishos/filemanager |
+| cutefish-kwin-plugins | Some configurations and plugins of KWin for Cutefish | https://github.com/cutefishos/kwin-plugins |
+| cutefish-launcher | Application launcher for Cutefish | https://github.com/cutefishos/launcher |
+| cutefish-qt-plugins | Qt platform theme plugin, unified style, for Cutefish | https://github.com/cutefishos/qt-plugins |
+| cutefish-settings | System settings for Cutefish | https://github.com/cutefishos/settings |
+| cutefish-statusbar | Top status bar for Cutefish | https://github.com/cutefishos/statusbar |
+| cutefish-wallpapers | System wallpapers for Cutefish | https://github.com/cutefishos/wallpapers |
+| fishui | Cutefish GUI library, based on QTQuick | https://github.com/cutefishos/fishui/ |
+| libcutefish | System library for Cutefish | https://github.com/cutefishos/libcutefish |
