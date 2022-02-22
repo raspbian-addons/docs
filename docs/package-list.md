@@ -233,3 +233,5 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | libcutefish | System library for Cutefish | https://github.com/cutefishos/libcutefish |
 | cutefish-icons | System default icon theme for Cutefish | https://github.com/cutefishos/icons |
 | ossutil | A user friendly command line tool to access AliCloud OSS | https://github.com/aliyun/ossutil |
+| minio | High Performance, Kubernetes Native Object Storage | https://github.com/minio/minio | 
+| mcli | A replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage | https://github.com/minio/mc |
