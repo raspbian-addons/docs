@@ -233,3 +233,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | libcutefish | System library for Cutefish | https://github.com/cutefishos/libcutefish |
 | cutefish-icons | System default icon theme for Cutefish | https://github.com/cutefishos/icons |
 | ossutil | A user friendly command line tool to access AliCloud OSS | https://github.com/aliyun/ossutil |
+| ipsw | iOS/macOS Research Swiss Army Knife | https://github.com/blacktop/ipsw |
