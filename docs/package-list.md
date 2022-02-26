@@ -236,3 +236,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | ipsw | iOS/macOS Research Swiss Army Knife | https://github.com/blacktop/ipsw |
 | minio | High Performance, Kubernetes Native Object Storage | https://github.com/minio/minio | 
 | mcli | A replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage | https://github.com/minio/mc |
+| g | Golang Version Manager | https://github.com/voidint/g |
