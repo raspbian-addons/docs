@@ -236,4 +236,5 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | ipsw | iOS/macOS Research Swiss Army Knife | https://github.com/blacktop/ipsw |
 | minio | High Performance, Kubernetes Native Object Storage | https://github.com/minio/minio | 
 | mcli | A replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage | https://github.com/minio/mc |
+| aliyun-cli | A tool to manage and use Alibaba Cloud resources through a command line interface | https://github.com/aliyun/aliyun-cli |
 | g | Golang Version Manager | https://github.com/voidint/g |
