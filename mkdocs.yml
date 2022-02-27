@@ -1,8 +1,8 @@
 site_name: Raspbian Addons Docs
 theme:
   name: material
-  logo: 'https://cdn.jsdelivr.net/gh/raspbian-addons/raspbian-addons@master/icons/logo-condensed-test.png'
-  favicon: 'https://cdn.jsdelivr.net/gh/raspbian-addons/raspbian-addons@master/icons/logo-condensed-test.png'
+  logo: 'https://raspbian-addons.org/raspbian-addons/icons/logo-condensed-test.png'
+  favicon: 'https://raspbian-addons.org/raspbian-addons/icons/logo-condensed-test.png'
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
