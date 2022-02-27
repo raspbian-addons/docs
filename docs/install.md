@@ -3,7 +3,7 @@
 To install the repository, make sure you have an Internet connection. Install Python with `sudo apt install -y python3`, then run the following command:
 
 ```
-python3 <(curl -fSsL https://cdn.jsdelivr.net/gh/raspbian-addons/scripts@master/utils/repo.py)
+python3 <(curl -fSsL https://scripts.raspbian-addons.org/utils/repo.py)
 ```
 The install script will ask you which mirror you would like to use. Pick the mirror that's closest to you for the most reliable speeds. Mirror syncs happen every 24 hours.
 
@@ -28,7 +28,7 @@ extrepo enable raspbian-addons
 
   To uninstall, execute this command. 
 ```
-bash <(curl -fSsL https://cdn.jsdelivr.net/gh/raspbian-addons/scripts@master/utils/uninstall.sh)
+bash <(curl -fSsL https://scripts.raspbian-addons.org/utils/uninstall.sh)
 ```
 
   If you installed the repository using <code>extrepo</code>, skip the step above and simply run the following:
