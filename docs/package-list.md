@@ -239,3 +239,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | aliyun-cli | A tool to manage and use Alibaba Cloud resources through a command line interface | https://github.com/aliyun/aliyun-cli |
 | g | Golang Version Manager | https://github.com/voidint/g |
 | snapdrop | A Progressive Web App for local file sharing | https://github.com/RobinLinus/snapdrop |
+| aliyundrive-fuse | FUSE for AliyunDrive | https://github.com/messense/aliyundrive-fuse |
