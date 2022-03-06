@@ -1,3 +1,7 @@
+---
+template: overrides/main.html
+---
+
 # How does it work?
 
 Here is how APT repositories are created and pushed to users.

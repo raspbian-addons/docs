@@ -1,3 +1,7 @@
+---
+template: overrides/main.html
+---
+
 # Package List
 
 This area contains a description of each application in the repository.

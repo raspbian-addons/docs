@@ -1,3 +1,7 @@
+---
+template: overrides/main.html
+---
+
 # Common Issues
 
 - **"This repository does not have a Release or InRelease file."**

@@ -1,3 +1,7 @@
+---
+template: overrides/main.html
+---
+
 # Repository Scripts
 
 Raspbian Addons uses [shell scripts](https://en.wikipedia.org/wiki/Shell_script), or Unix command-line programs, to update its packages every 24 hours. How does it do this?
