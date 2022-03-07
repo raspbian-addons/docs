@@ -247,3 +247,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | ferdi | A desktop app that helps you organize how you use your favourite apps by combining them into one application | https://github.com/getferdi/ferdi |
 | yank.note | A hackable markdown note application for programmers | https://github.com/purocean/yn |
 | termux-apt-repo | Script to create Termux package repos | https://github.com/termux/termux-apt-repo |
+| system-monitoring-center | GTK and Python based system performance and usage monitoring tool | https://github.com/hakandundar34coding/system-monitoring-center |
