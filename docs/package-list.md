@@ -250,3 +250,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | system-monitoring-center | GTK and Python based system performance and usage monitoring tool | https://github.com/hakandundar34coding/system-monitoring-center |
 | apt-fast | A shellscript wrapper for apt that speeds up downloading of packages. | https://github.com/ilikenwf/apt-fast |
 | moonlight-qt | GameStream client for PCs | https://github.com/moonlight-stream/moonlight-qt |
+| ducopanel | Universal tool for [DuinoCoin](https://github.com/revoxhere/duino-coin) | https://github.com/ponsato/ducopanel |
