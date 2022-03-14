@@ -251,3 +251,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | apt-fast | A shellscript wrapper for apt that speeds up downloading of packages. | https://github.com/ilikenwf/apt-fast |
 | moonlight-qt | GameStream client for PCs | https://github.com/moonlight-stream/moonlight-qt |
 | ducopanel | Universal tool for [DuinoCoin](https://github.com/revoxhere/duino-coin) | https://github.com/ponsato/ducopanel |
+| vmware-horizon-client | VMware Horizon Client allows your end users to connect to their VMware Horizon View VM from a device of choice. | https://www.vmware.com/products/horizon |
