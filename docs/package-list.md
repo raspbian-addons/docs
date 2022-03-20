@@ -99,6 +99,7 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | pbgopy | Copy and paste between devices | https://github.com/nakabonne/pbgopy |
 | persepolis | Download Manager with a GUI for aria2 | https://github.com/persepolisdm/persepolis |
 | piserver | Raspberry pi Server Wizard for serving a Raspbian instance to network-booting pies | https://github.com/raspberrypi/piserver |
+| planet-launcher | An extended launcher for Minecraft-Pi-Reborn | https://github.com/mcpiscript/planet |
 | prusa-slicer | gcode generator for 3d printers | https://github.com/prusa3d/PrusaSlicer |
 | python3-halo-weather | Weather app for Linux desktops | https://github.com/cijo7/Halo |
 | qemu | open-source machine virtualizer and emulator | https://github.com/qemu/qemu |
