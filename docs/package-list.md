@@ -256,3 +256,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | beekeeper-studio | Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. | https://github.com/beekeeper-studio/beekeeper-studio |
 | pibright | Brightness manager for Raspberry Pi | https://github.com/krishenriksen/pibright |
 | tea | A command line tool to interact with Gitea servers | https://gitea.com/gitea/tea |
+| armcord | a custom client designed to enhance your Discord experience while keeping everything lightweight. | https://github.com/WebCord/WebCord |
