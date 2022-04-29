@@ -256,3 +256,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | beekeeper-studio | Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. | https://github.com/beekeeper-studio/beekeeper-studio |
 | pibright | Brightness manager for Raspberry Pi | https://github.com/krishenriksen/pibright |
 | tea | A command line tool to interact with Gitea servers | https://gitea.com/gitea/tea |
+| deb-get | `apt-get` functionality for .debs published in 3rd party repositories or via direct download | https://github.com/wimpysworld/deb-get |
