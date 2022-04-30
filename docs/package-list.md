@@ -257,3 +257,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | pibright | Brightness manager for Raspberry Pi | https://github.com/krishenriksen/pibright |
 | tea | A command line tool to interact with Gitea servers | https://gitea.com/gitea/tea |
 | armcord | a custom client designed to enhance your Discord experience while keeping everything lightweight. | https://github.com/WebCord/WebCord |
+| retroarch | Cross-platform, sophisticated frontend for the libretro API. | https://github.com/libretro/RetroArch |
