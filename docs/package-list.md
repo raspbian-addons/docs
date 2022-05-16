@@ -258,3 +258,5 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | tea | A command line tool to interact with Gitea servers | https://gitea.com/gitea/tea |
 | armcord | a custom client designed to enhance your Discord experience while keeping everything lightweight. | https://github.com/WebCord/WebCord |
 | retroarch | Cross-platform, sophisticated frontend for the libretro API. | https://github.com/libretro/RetroArch |
+| kopia | Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. | https://github.com/kopia/kopia |
+| kopia-ui | Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. | https://github.com/kopia/kopia |
