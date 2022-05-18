@@ -260,3 +260,4 @@ The entire package archive can be found [here](https://apt.raspbian-addons.org/d
 | retroarch | Cross-platform, sophisticated frontend for the libretro API. | https://github.com/libretro/RetroArch |
 | kopia | Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. | https://github.com/kopia/kopia |
 | kopia-ui | Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. | https://github.com/kopia/kopia |
+| github-desktop | Open-source Electron-based GitHub desktop client | https://github.com/shiftkey/desktop |
