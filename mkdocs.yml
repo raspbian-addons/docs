@@ -1,7 +1,6 @@
 site_name: Raspbian Addons Docs
 theme:
   name: material
-  custom_dir: custom
   logo: 'https://raspbian-addons.org/raspbian-addons/icons/logo-condensed-test.png'
   favicon: 'https://raspbian-addons.org/raspbian-addons/icons/logo-condensed-test.png'
   palette:
