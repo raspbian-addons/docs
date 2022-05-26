@@ -1,7 +1,3 @@
----
-template: overrides/main.html
----
-
 # Secret and Public Keys
 
 The repository needs two keys in order to be secure. There are two parts necessary for APT: a public key, and a private key. 

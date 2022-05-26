@@ -1,8 +1,4 @@
----
-template: overrides/main.html
----
-
-## Hi there 👋
+# Hi there 👋
 
 <img src="https://raspbian-addons.org/raspbian-addons/icons/logo-condensed-test.png" align="right"/>
 

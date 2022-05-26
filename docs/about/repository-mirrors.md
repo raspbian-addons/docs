@@ -1,7 +1,3 @@
----
-template: overrides/main.html
----
-
 # Repository Mirrors
 
 Raspbian Addons has many mirrors in different locations around the world, which can be used to increase the speed of the repository. You can see a complete list of mirrors [here](https://github.com/raspbian-addons/mirrors).

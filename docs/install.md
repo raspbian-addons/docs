@@ -1,7 +1,3 @@
----
-template: overrides/main.html
----
-
 # Installing
 
 To install the repository, make sure you have an Internet connection. Install Python with `sudo apt install -y python3`, then run the following command:

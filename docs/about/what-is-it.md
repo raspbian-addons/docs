@@ -1,7 +1,3 @@
----
-template: overrides/main.html
----
-
 # What is Raspbian Addons?
 
 Raspbian Addons is a repository containing extra open-source software for Raspberry Pies.
