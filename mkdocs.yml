@@ -1,6 +1,7 @@
 site_name: Raspbian Addons Docs
 theme:
   name: material
+  custom_dir: overrides
   logo: 'https://raspbian-addons.org/raspbian-addons/icons/logo-condensed-test.png'
   favicon: 'https://raspbian-addons.org/raspbian-addons/icons/logo-condensed-test.png'
   palette:
@@ -25,5 +26,3 @@ theme:
 repo_name: raspbian-addons/docs
 repo_url: https://github.com/raspbian-addons/docs
 edit_uri: https://github.com/raspbian-addons/docs/edit/main/docs/
-extra_javascript:
-    - 'https://analytics.raspbian-addons.org/umami.js'
